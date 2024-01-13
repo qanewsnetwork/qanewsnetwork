@@ -29,8 +29,8 @@ Seeking fellow adventurers to join our quest:
 ## 📫 How to Reach the Shadows
 
 Connect with us through the encrypted channels:
-- DarkMessenger: @qanewsnetwork
-- RavenMail: contact@qanewsnetwork.com
+- Social: @qanewsnetwork
+- RavenMail: info@qanewsnetwork.com
 
 Uncover the mysteries, for in the shadows, true QA excellence awaits. May your tests be as unbreakable as the silence before the storm. 🌑
 
